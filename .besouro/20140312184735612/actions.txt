@@ -127,3 +127,16 @@ RefactoringAction 1394662321352 Calculator.java RENAME eval()=>float eval(String
 RefactoringAction 1394662372678 Calculator.java RENAME eval(String)=>float eval() METHOD
 RefactoringAction 1394662381754 Calculator.java RENAME eval()=>float eval(float) METHOD
 EditAction 1394662386604 Calculator.java 747 2 1 0
+CompilationAction 1394662386785 Calculator.java
+CompilationAction 1394662386785 Calculator.java
+CompilationAction 1394662386785 Calculator.java
+CompilationAction 1394662392026 Calculator.java
+CompilationAction 1394662392026 Calculator.java
+CompilationAction 1394662392199 Calculator.java
+CompilationAction 1394662392199 Calculator.java
+CompilationAction 1394662392199 Calculator.java
+CompilationAction 1394662392789 Calculator.java
+CompilationAction 1394662392789 Calculator.java
+CompilationAction 1394662393271 Calculator.java
+RefactoringAction 1394662408899 Calculator.java ADD Sum() METHOD
+EditAction 1394662414405 Calculator.java 814 3 1 0

@@ -24,5 +24,11 @@ public class Calculator {
 abstract class BinaryExpression{
 	String symbol;
 	
-	float eval(float op1, op2);
+	float eval(float op1, float op2);
+}
+
+class Sum extends BinaryExpression{
+	public Sum() {
+		
+	}
 }
