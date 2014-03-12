@@ -82,3 +82,8 @@ EditAction 1394661897894 Calculator.java 398 1 1 0
 EditAction 1394661900127 Calculator.java 398 1 1 0
 EditAction 1394661902141 Calculator.java 398 1 1 0
 EditAction 1394661905519 Calculator.java 398 1 1 0
+UnitTestCaseAction 1394661910798 CalculatorTest.java FAIL
+UnitTestSessionAction 1394661910798 CalculatorTest.java FAIL
+UnitTestCaseAction 1394661927603 CalculatorTest.java FAIL
+UnitTestSessionAction 1394661927603 CalculatorTest.java FAIL
+EditAction 1394661935088 CalculatorTest.java 452 3 5 5
