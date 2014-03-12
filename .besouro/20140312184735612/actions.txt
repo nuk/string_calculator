@@ -190,3 +190,7 @@ UnitTestCaseAction 1394662798584 CalculatorTest.java OK
 UnitTestSessionAction 1394662798585 CalculatorTest.java OK
 RefactoringAction 1394662805262 Calculator.java MOVE <anonymous /1>=>class Calculator null
 EditAction 1394662806606 Calculator.java 1782 10 10 0
+CompilationAction 1394662806816 Calculator.java
+CompilationAction 1394662821784 Calculator.java
+CompilationAction 1394662821960 Calculator.java
+EditAction 1394662827259 Calculator.java 1768 10 10 0
