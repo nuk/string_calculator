@@ -140,3 +140,6 @@ CompilationAction 1394662392789 Calculator.java
 CompilationAction 1394662393271 Calculator.java
 RefactoringAction 1394662408899 Calculator.java ADD Sum() METHOD
 EditAction 1394662414405 Calculator.java 814 3 1 0
+CompilationAction 1394662414558 Calculator.java
+RefactoringAction 1394662429651 Calculator.java ADD float eval(float, float) METHOD
+EditAction 1394662437218 Calculator.java 896 4 3 0
