@@ -7,3 +7,7 @@
 1394662933618 test-addition null 52 true
 1394663004787 test-addition null 19 true
 1394663224285 refactoring 2A 151 false
+1394663306084 refactoring null 10 true
+1394663320709 refactoring 2A 5 true
+1394663328505 refactoring 2A 3 true
+1394663337822 refactoring 2A 6 true
