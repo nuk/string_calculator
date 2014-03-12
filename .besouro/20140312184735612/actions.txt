@@ -41,3 +41,6 @@ RefactoringAction 1394661446059 CalculatorTest.java ADD void returnStringsWithOn
 EditAction 1394661451012 CalculatorTest.java 369 2 4 4
 EditAction 1394661455323 CalculatorTest.java 324 2 3 3
 EditAction 1394661458555 CalculatorTest.java 324 2 3 3
+UnitTestCaseAction 1394661461850 CalculatorTest.java FAIL
+UnitTestSessionAction 1394661461851 CalculatorTest.java FAIL
+EditAction 1394661490940 Calculator.java 187 1 1 0
