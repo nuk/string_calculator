@@ -9,9 +9,7 @@ public class Calculator {
 	
 	public static double eval(String expression) {
 		BinaryExpression binary = findBinaryExpression(expression);
-		if (binary != null){
-			return evaluateBinaryExpression(expression, binary);
-		}
+		if (binary != null)		return evaluateBinaryExpression(expression, binary);
 		return Double.parseDouble(expression);
 	}
 
