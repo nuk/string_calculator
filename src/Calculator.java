@@ -8,6 +8,14 @@ public class Calculator {
 	}};
 	
 	public static double eval(String expression) {
+		BinaryExpression binary = findBinaryExpression(expression);
+		if (binary != null){
+			return evaluateBinaryExpression(expression, binary);
+		}
+		return Double.parseDouble(expression);
+	}
+
+	private static BinaryExpression findBinaryExpression(String expression) {
 		BinaryExpression binary = null;
 		for(BinaryExpression ex : binaries){
 			if(expression.contains(ex.symbol)){
@@ -15,10 +23,7 @@ public class Calculator {
 				break;
 			}
 		}
-		if (binary != null){
-			return evaluateBinaryExpression(expression, binary);
-		}
-		return Double.parseDouble(expression);
+		return binary;
 	}
 
 	private static double evaluateBinaryExpression(String expression,

@@ -223,3 +223,7 @@ CompilationAction 1394663206555 Calculator.java
 UnitTestCaseAction 1394663209376 CalculatorTest.java FAIL
 UnitTestSessionAction 1394663209376 CalculatorTest.java FAIL
 EditAction 1394663220781 Calculator.java 1431 11 14 0
+UnitTestCaseAction 1394663224285 CalculatorTest.java OK
+UnitTestSessionAction 1394663224285 CalculatorTest.java OK
+RefactoringAction 1394663295911 Calculator.java ADD static BinaryExpression findBinaryExpression(String) METHOD
+EditAction 1394663295914 Calculator.java 1589 12 16 0

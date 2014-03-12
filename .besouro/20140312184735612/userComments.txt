@@ -5,3 +5,4 @@
 1394661954917 comment O teste estava errado e só depois de fazer o código a gente corrigiu ele. 0 null
 1394662798585 comment É o mesmo caso do anterior 0 null
 1394662858097 comment É, novamente, o mesmo caso do anterior 0 null
+1394663224285 comment Refatoramos, aí quebrou o teste, arrumamos e pasosu. 0 null
