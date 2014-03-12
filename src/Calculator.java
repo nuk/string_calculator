@@ -21,7 +21,6 @@ public class Calculator {
 
 }
 
-
 abstract class BinaryExpression{
 	String symbol;
 	abstract double eval(double op1, double op2);
