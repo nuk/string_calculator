@@ -17,6 +17,7 @@ public class CalculatorTest {
 	
 	@Test public void itSubs(){
 		assertEquals(1.0, Calculator.eval("4-3"),0);
+		assertEquals(8.0, Calculator.eval("10-2"),0);
 	}
 	
 }
