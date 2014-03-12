@@ -97,3 +97,5 @@ UnitTestSessionAction 1394661981418 CalculatorTest.java OK
 EditAction 1394662108499 Calculator.java 531 1 1 0
 RefactoringAction 1394662120538 CalculatorTest.java ADD void itSubs()/2 METHOD
 EditAction 1394662136069 Calculator.java 531 1 1 0
+RefactoringAction 1394662143084 CalculatorTest.java RENAME itSubs()/2=>void itMultiplies() METHOD
+EditAction 1394662158187 CalculatorTest.java 636 4 8 8

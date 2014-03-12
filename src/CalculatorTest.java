@@ -20,4 +20,9 @@ public class CalculatorTest {
 		assertEquals(8.0, Calculator.eval("10-2"),0);
 	}
 	
+	@Test public void itMultiplies(){
+		assertEquals(2.0, Calculator.eval("2*2"),0);
+		assertEquals(10.0, Calculator.eval("10*2"),0);
+	}
+	
 }
