@@ -178,3 +178,4 @@ RefactoringAction 1394662686910 Calculator.java RENAME Sub()=>Multiply() METHOD
 RefactoringAction 1394662703571 Calculator.java RENAME Multiply()=>Divide() METHOD
 EditAction 1394662706812 Calculator.java 1657 10 10 0
 EditAction 1394662723577 Calculator.java 1710 10 10 0
+EditAction 1394662732175 Calculator.java 1781 10 10 0
