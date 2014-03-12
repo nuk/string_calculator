@@ -2,7 +2,7 @@
 public class Calculator {
 
 	public static double eval(String string) {
-		return 1;
+		return Double.parseDouble(string);
 	}
 
 }
