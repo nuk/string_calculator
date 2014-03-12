@@ -172,3 +172,8 @@ UnitTestCaseAction 1394662643713 CalculatorTest.java OK
 UnitTestSessionAction 1394662643714 CalculatorTest.java OK
 EditAction 1394662659174 Calculator.java 1250 4 4 0
 EditAction 1394662671307 Calculator.java 1381 6 6 0
+CompilationAction 1394662671484 Calculator.java
+CompilationAction 1394662677093 Calculator.java
+RefactoringAction 1394662686910 Calculator.java RENAME Sub()=>Multiply() METHOD
+RefactoringAction 1394662703571 Calculator.java RENAME Multiply()=>Divide() METHOD
+EditAction 1394662706812 Calculator.java 1657 10 10 0

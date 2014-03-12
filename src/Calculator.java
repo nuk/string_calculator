@@ -46,7 +46,17 @@ class Sum extends BinaryExpression{
 	double eval(double op1, double op2) {	return op1 + op2;	}
 }
 
-class Sum extends BinaryExpression{
-	public Sum() {	symbol = "-";	}
+class Sub extends BinaryExpression{
+	public Sub() {	symbol = "-";	}
 	double eval(double op1, double op2) {	return op1 - op2;	}
+}
+
+class Multiply extends BinaryExpression{
+	public Multiply() {	symbol = "*";	}
+	double eval(double op1, double op2) {	return op1 * op2;	}
+}
+
+class Divide extends BinaryExpression{
+	public Divide() {	symbol = "/";	}
+	double eval(double op1, double op2) {	return op1 / op2;	}
 }
