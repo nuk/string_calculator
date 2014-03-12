@@ -21,7 +21,7 @@ public class CalculatorTest {
 	}
 	
 	@Test public void itMultiplies(){
-		assertEquals(2.0, Calculator.eval("2*2"),0);
+		assertEquals(4.0, Calculator.eval("2*2"),0);
 		assertEquals(10.0, Calculator.eval("10*2"),0);
 	}
 	
