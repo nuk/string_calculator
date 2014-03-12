@@ -44,3 +44,8 @@ EditAction 1394661458555 CalculatorTest.java 324 2 3 3
 UnitTestCaseAction 1394661461850 CalculatorTest.java FAIL
 UnitTestSessionAction 1394661461851 CalculatorTest.java FAIL
 EditAction 1394661490940 Calculator.java 187 1 1 0
+UnitTestCaseAction 1394661493595 CalculatorTest.java OK
+UnitTestSessionAction 1394661493596 CalculatorTest.java OK
+RefactoringAction 1394661502803 Calculator.java ADD NumberFormatException e FIELD
+RefactoringAction 1394661518445 Calculator.java REMOVE e FIELD
+EditAction 1394661527857 Calculator.java 215 1 0 0

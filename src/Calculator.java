@@ -2,7 +2,8 @@
 public class Calculator {
 
 	public static double eval(String expression) {
-		try {
+		if(expression.contains("+")){
+			
 			return Double.parseDouble(expression);
 		} catch (NumberFormatException e) {
 			return 2;
