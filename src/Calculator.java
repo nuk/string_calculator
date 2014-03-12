@@ -11,7 +11,7 @@ public class Calculator {
 		
 		for(BinaryExpression ex : binaries){
 			if(expression.contains(ex.symbol)){
-				String[] operands = expression.split("\\+");
+				String[] operands = expression.split("\\"+ex.symbol);
 				return ex.eval(eval(operands[0]),eval(operands[1]));
 			}
 		}
