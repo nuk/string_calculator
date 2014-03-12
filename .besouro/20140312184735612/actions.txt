@@ -1,0 +1,5 @@
+FileOpenedAction 1394660856136 CalculatorTest.java 36 0 0 0
+RefactoringAction 1394660869272 CalculatorTest.java ADD import org.junit.Test IMPORT
+RefactoringAction 1394660900479 CalculatorTest.java ADD void returnStri FIELD
+RefactoringAction 1394660905900 CalculatorTest.java RENAME returnStri=>void returnStringsWithOnlyTheNUmber() METHOD
+EditAction 1394660935683 CalculatorTest.java 157 1 1 1
