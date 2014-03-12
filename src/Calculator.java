@@ -4,7 +4,7 @@ import java.util.List;
 public class Calculator {
 
 	static List<BinaryExpression> binaries = new ArrayList<BinaryExpression>(){{
-		add(new Sum());
+		add(new Sum());add(new Sub());add(new Multiply());add(new Divide());
 	}};
 	
 	public static double eval(String expression) {
