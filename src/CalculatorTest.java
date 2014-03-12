@@ -10,4 +10,9 @@ public class CalculatorTest {
 		assertEquals(25.0, Calculator.eval("25"),0);
 	}
 	
+	@Test public void itSums(){
+		assertEquals(1.0, Calculator.eval("1"),0);
+		assertEquals(25.0, Calculator.eval("25"),0);
+	}
+	
 }

@@ -35,3 +35,7 @@ EditAction 1394661417461 CalculatorTest.java 242 1 2 2
 UnitTestCaseAction 1394661422021 CalculatorTest.java FAIL
 UnitTestSessionAction 1394661422022 CalculatorTest.java FAIL
 EditAction 1394661427293 CalculatorTest.java 243 1 2 2
+UnitTestCaseAction 1394661428274 CalculatorTest.java OK
+UnitTestSessionAction 1394661428275 CalculatorTest.java OK
+RefactoringAction 1394661446059 CalculatorTest.java ADD void returnStringsWithOnlyTheNUmber()/2 METHOD
+EditAction 1394661451012 CalculatorTest.java 369 2 4 4
