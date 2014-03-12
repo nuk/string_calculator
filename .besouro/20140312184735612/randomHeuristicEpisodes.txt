@@ -14,4 +14,5 @@
 1394662238339 test-first 3 41 true
 1394662643714 refactoring 2A 347 true
 1394662798585 refactoring 2A 139 true
-1394662858097 refactoring 2A 52 false
+1394662858097 refactoring 2A 52 true
+1394662933618 test-last 1 52 false

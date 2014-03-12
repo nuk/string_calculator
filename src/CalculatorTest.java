@@ -30,7 +30,7 @@ public class CalculatorTest {
 		assertEquals(5.0, Calculator.eval("10/2"),0);
 	}
 	
-	@Test public void itWhatever(){
+	@Test public void itHasPrecedence(){
 		assertEquals(9.0, Calculator.eval("10+2-3"),0);
 	}
 	
