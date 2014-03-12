@@ -230,3 +230,8 @@ EditAction 1394663295914 Calculator.java 1589 12 16 0
 UnitTestCaseAction 1394663306084 CalculatorTest.java OK
 UnitTestSessionAction 1394663306084 CalculatorTest.java OK
 EditAction 1394663315566 Calculator.java 1540 12 15 0
+UnitTestCaseAction 1394663320708 CalculatorTest.java OK
+UnitTestSessionAction 1394663320709 CalculatorTest.java OK
+RefactoringAction 1394663324871 Calculator.java MOVE <anonymous /1>=>class Calculator null
+RefactoringAction 1394663325979 Calculator.java MOVE <initializer /1>=>List<BinaryExpression> binaries null
+EditAction 1394663325981 Calculator.java 1529 12 15 0

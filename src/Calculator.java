@@ -16,11 +16,9 @@ public class Calculator {
 	}
 
 	private static BinaryExpression findBinaryExpression(String expression) {
-		for(BinaryExpression ex : binaries){
-			if(expression.contains(ex.symbol)){
+		for(BinaryExpression ex : binaries)
+			if(expression.contains(ex.symbol))
 				return ex;
-			}
-		}
 		return null;
 	}
 
