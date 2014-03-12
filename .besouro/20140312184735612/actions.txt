@@ -157,3 +157,4 @@ EditAction 1394662512404 Calculator.java 1036 4 3 0
 RefactoringAction 1394662548139 Calculator.java MOVE <anonymous /1>=>class Calculator null
 CompilationAction 1394662560344 Calculator.java
 EditAction 1394662566180 Calculator.java 1141 4 4 0
+EditAction 1394662587867 Calculator.java 1236 4 2 0
