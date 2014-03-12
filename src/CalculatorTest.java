@@ -12,6 +12,7 @@ public class CalculatorTest {
 	
 	@Test public void itSums(){
 		assertEquals(2.0, Calculator.eval("1+1"),0);
+		assertEquals(7.0, Calculator.eval("5+2"),0);
 	}
 	
 }
