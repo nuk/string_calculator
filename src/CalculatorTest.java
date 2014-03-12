@@ -25,4 +25,9 @@ public class CalculatorTest {
 		assertEquals(20.0, Calculator.eval("10*2"),0);
 	}
 	
+	@Test public void itDivides(){
+		assertEquals(4.0, Calculator.eval("2*2"),0);
+		assertEquals(20.0, Calculator.eval("10*2"),0);
+	}
+	
 }

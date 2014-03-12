@@ -105,3 +105,8 @@ EditAction 1394662165974 CalculatorTest.java 636 4 8 8
 UnitTestCaseAction 1394662167097 CalculatorTest.java FAIL
 UnitTestSessionAction 1394662167097 CalculatorTest.java FAIL
 EditAction 1394662173004 CalculatorTest.java 636 4 8 8
+UnitTestCaseAction 1394662174012 CalculatorTest.java OK
+UnitTestSessionAction 1394662174012 CalculatorTest.java OK
+RefactoringAction 1394662196922 CalculatorTest.java ADD void itMultiplies()/2 METHOD
+RefactoringAction 1394662201441 CalculatorTest.java RENAME itMultiplies()/2=>void itDivides() METHOD
+EditAction 1394662201711 CalculatorTest.java 769 5 10 10

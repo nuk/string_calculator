@@ -24,3 +24,5 @@
 1394661937752 test-first 3 68 true
 1394661954917 test-addition 1 1 true
 1394661981418 regression 1 0 true
+1394662174012 test-last 1 65 false
+1394662174013 test-last 1 65 false
