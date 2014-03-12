@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Calculator {
 
-	List<BinaryExpression> binaries = new ArrayList<>(){{
+	List<BinaryExpression> binaries = new ArrayList<BinaryExpression>(){{
 		add(new Sum());
 	}};
 	
