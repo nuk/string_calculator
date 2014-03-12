@@ -22,3 +22,4 @@ EditAction 1394661132108 Calculator.java 90 1 1 0
 UnitTestCaseAction 1394661144012 CalculatorTest.java OK
 UnitTestSessionAction 1394661144012 CalculatorTest.java OK
 EditAction 1394661162039 CalculatorTest.java 241 1 2 2
+EditAction 1394661197594 CalculatorTest.java 241 1 2 2
