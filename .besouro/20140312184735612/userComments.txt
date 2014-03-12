@@ -1,1 +1,2 @@
 1394661342872 comment Usamos o refactoring do Eclipse 0 null
+1394661542094 comment E dessa vez fizemos a alteração sem ser pelo Eclipse 0 null

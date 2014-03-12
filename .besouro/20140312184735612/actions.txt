@@ -49,3 +49,8 @@ UnitTestSessionAction 1394661493596 CalculatorTest.java OK
 RefactoringAction 1394661502803 Calculator.java ADD NumberFormatException e FIELD
 RefactoringAction 1394661518445 Calculator.java REMOVE e FIELD
 EditAction 1394661527857 Calculator.java 215 1 0 0
+CompilationAction 1394661527959 Calculator.java
+CompilationAction 1394661527959 Calculator.java
+UnitTestCaseAction 1394661542093 CalculatorTest.java OK
+UnitTestSessionAction 1394661542094 CalculatorTest.java OK
+EditAction 1394661590544 Calculator.java 183 1 1 0
