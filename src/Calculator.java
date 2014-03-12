@@ -1,7 +1,7 @@
 
 public class Calculator {
 
-	public static Object eval(String string) {
+	public static float eval(String string) {
 		return null;
 	}
 

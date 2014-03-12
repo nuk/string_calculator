@@ -9,3 +9,5 @@ CompilationAction 1394660949346 CalculatorTest.java
 FileOpenedAction 1394660950264 Calculator.java 30 0 0 0
 RefactoringAction 1394660967584 Calculator.java ADD static Object eval(String) METHOD
 EditAction 1394660973387 Calculator.java 93 1 1 0
+CompilationAction 1394660973584 CalculatorTest.java
+EditAction 1394661012516 Calculator.java 92 1 1 0
