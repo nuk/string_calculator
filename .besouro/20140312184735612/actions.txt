@@ -168,3 +168,6 @@ RefactoringAction 1394662630378 Calculator.java RENAME eval(float, float)=>float
 RefactoringAction 1394662631910 Calculator.java RENAME eval(double, float)=>double eval(double, double) METHOD
 EditAction 1394662632566 Calculator.java 1248 4 4 0
 EditAction 1394662639256 Calculator.java 1252 4 4 0
+UnitTestCaseAction 1394662643713 CalculatorTest.java OK
+UnitTestSessionAction 1394662643714 CalculatorTest.java OK
+EditAction 1394662659174 Calculator.java 1250 4 4 0
