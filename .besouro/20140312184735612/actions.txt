@@ -118,3 +118,12 @@ EditAction 1394662234723 Calculator.java 664 1 1 0
 UnitTestCaseAction 1394662238339 CalculatorTest.java OK
 UnitTestSessionAction 1394662238339 CalculatorTest.java OK
 EditAction 1394662296673 Calculator.java 709 1 1 0
+CompilationAction 1394662296871 Calculator.java
+CompilationAction 1394662296872 Calculator.java
+CompilationAction 1394662299350 Calculator.java
+RefactoringAction 1394662307892 Calculator.java ADD float eval FIELD
+RefactoringAction 1394662310411 Calculator.java RENAME eval=>float eval() METHOD
+RefactoringAction 1394662321352 Calculator.java RENAME eval()=>float eval(String) METHOD
+RefactoringAction 1394662372678 Calculator.java RENAME eval(String)=>float eval() METHOD
+RefactoringAction 1394662381754 Calculator.java RENAME eval()=>float eval(float) METHOD
+EditAction 1394662386604 Calculator.java 747 2 1 0

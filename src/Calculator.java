@@ -21,6 +21,8 @@ public class Calculator {
 }
 
 
-class BinaryExpression(){
+abstract class BinaryExpression{
 	String symbol;
+	
+	float eval(float op1, op2);
 }
