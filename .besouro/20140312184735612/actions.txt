@@ -202,3 +202,4 @@ EditAction 1394662890548 Calculator.java 1198 10 10 0
 RefactoringAction 1394662901912 CalculatorTest.java ADD void itDivides()/2 METHOD
 RefactoringAction 1394662906443 CalculatorTest.java RENAME itDivides()/2=>void itWhate() METHOD
 EditAction 1394662907212 CalculatorTest.java 853 6 11 11
+EditAction 1394662929728 CalculatorTest.java 856 6 11 11

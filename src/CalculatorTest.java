@@ -31,7 +31,7 @@ public class CalculatorTest {
 	}
 	
 	@Test public void itWhatever(){
-		assertEquals(2.0, Calculator.eval("4/2"),0);
+		assertEquals(9.0, Calculator.eval("10+2-3"),0);
 	}
 	
 }
