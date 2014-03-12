@@ -19,3 +19,8 @@ public class Calculator {
 	}
 
 }
+
+
+class BinaryExpression(){
+	String symbol;
+}

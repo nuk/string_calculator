@@ -115,3 +115,6 @@ UnitTestCaseAction 1394662215851 CalculatorTest.java FAIL
 UnitTestSessionAction 1394662215851 CalculatorTest.java FAIL
 EditAction 1394662225517 Calculator.java 664 1 1 0
 EditAction 1394662234723 Calculator.java 664 1 1 0
+UnitTestCaseAction 1394662238339 CalculatorTest.java OK
+UnitTestSessionAction 1394662238339 CalculatorTest.java OK
+EditAction 1394662296673 Calculator.java 709 1 1 0
