@@ -1,8 +1,8 @@
 
 public class Calculator {
 
-	public static double eval(String string) {
-		return Double.parseDouble(string);
+	public static double eval(String expression) {
+		return Double.parseDouble(expression);
 	}
 
 }
