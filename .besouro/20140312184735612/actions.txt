@@ -102,3 +102,6 @@ EditAction 1394662158187 CalculatorTest.java 636 4 8 8
 UnitTestCaseAction 1394662159942 CalculatorTest.java FAIL
 UnitTestSessionAction 1394662159942 CalculatorTest.java FAIL
 EditAction 1394662165974 CalculatorTest.java 636 4 8 8
+UnitTestCaseAction 1394662167097 CalculatorTest.java FAIL
+UnitTestSessionAction 1394662167097 CalculatorTest.java FAIL
+EditAction 1394662173004 CalculatorTest.java 636 4 8 8
