@@ -1,8 +1,8 @@
 
 public class Calculator {
 
-	public static float eval(String string) {
-		return null;
+	public static double eval(String string) {
+		return 0;
 	}
 
 }
