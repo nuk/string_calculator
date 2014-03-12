@@ -5,7 +5,7 @@ public class Calculator {
 			String[] operands = expression.split("\\+");
 			return eval(operands[0])+eval(operands[1]);
 		}else if(expression.contains("-")){
-			String[] operands = expression.split("\\+");
+			String[] operands = expression.split("\\-");
 			return eval(operands[0])+eval(operands[1]);
 		} else {
 			return Double.parseDouble(expression);
