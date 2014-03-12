@@ -146,3 +146,9 @@ EditAction 1394662437218 Calculator.java 896 4 3 0
 CompilationAction 1394662437449 Calculator.java
 CompilationAction 1394662441910 Calculator.java
 EditAction 1394662453442 Calculator.java 888 4 3 0
+RefactoringAction 1394662477429 Calculator.java ADD import java.util.List IMPORT
+RefactoringAction 1394662486009 Calculator.java ADD List<BinaryExpression> binaries FIELD
+RefactoringAction 1394662494095 Calculator.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1394662495112 Calculator.java RENAME eval(String)=>class BinaryExpression null
+RefactoringAction 1394662499153 Calculator.java ADD static double eval(String) METHOD
+EditAction 1394662505600 Calculator.java 1020 4 3 0

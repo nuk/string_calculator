@@ -1,5 +1,12 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Calculator {
 
+	List<BinaryExpression> binaries = new ArrayList<>(){{
+		add(new Sum());
+	}};
+	
 	public static double eval(String expression) {
 		if(expression.contains("+")){
 			String[] operands = expression.split("\\+");
