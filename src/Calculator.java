@@ -12,10 +12,11 @@ public class Calculator {
 		for(BinaryExpression ex : binaries){
 			if(expression.contains(ex.symbol)){
 				binary = ex;
+				break;
 			}
 		}
 		if (binary != null){
-			return evaluateBinaryExpression(expression, ex);
+			return evaluateBinaryExpression(expression, binary);
 		}
 		return Double.parseDouble(expression);
 	}
