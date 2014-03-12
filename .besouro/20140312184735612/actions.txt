@@ -40,3 +40,4 @@ UnitTestSessionAction 1394661428275 CalculatorTest.java OK
 RefactoringAction 1394661446059 CalculatorTest.java ADD void returnStringsWithOnlyTheNUmber()/2 METHOD
 EditAction 1394661451012 CalculatorTest.java 369 2 4 4
 EditAction 1394661455323 CalculatorTest.java 324 2 3 3
+EditAction 1394661458555 CalculatorTest.java 324 2 3 3
