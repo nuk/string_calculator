@@ -110,3 +110,4 @@ UnitTestSessionAction 1394662174012 CalculatorTest.java OK
 RefactoringAction 1394662196922 CalculatorTest.java ADD void itMultiplies()/2 METHOD
 RefactoringAction 1394662201441 CalculatorTest.java RENAME itMultiplies()/2=>void itDivides() METHOD
 EditAction 1394662201711 CalculatorTest.java 769 5 10 10
+EditAction 1394662214655 CalculatorTest.java 768 5 10 10
