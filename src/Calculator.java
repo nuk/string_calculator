@@ -16,14 +16,12 @@ public class Calculator {
 	}
 
 	private static BinaryExpression findBinaryExpression(String expression) {
-		BinaryExpression binary = null;
 		for(BinaryExpression ex : binaries){
 			if(expression.contains(ex.symbol)){
-				binary = ex;
-				break;
+				return ex;
 			}
 		}
-		return binary;
+		return null;
 	}
 
 	private static double evaluateBinaryExpression(String expression,
