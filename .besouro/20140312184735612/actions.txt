@@ -194,3 +194,6 @@ CompilationAction 1394662806816 Calculator.java
 CompilationAction 1394662821784 Calculator.java
 CompilationAction 1394662821960 Calculator.java
 EditAction 1394662827259 Calculator.java 1768 10 10 0
+UnitTestCaseAction 1394662858096 CalculatorTest.java OK
+UnitTestSessionAction 1394662858097 CalculatorTest.java OK
+EditAction 1394662881123 Calculator.java 1171 10 10 0

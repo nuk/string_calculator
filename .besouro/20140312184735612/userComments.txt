@@ -3,3 +3,5 @@
 1394661743292 comment Mudamos para chamar o próprio método para evitar duplicação de código 0 null
 1394661822993 comment Usamos o refactoring do eclipse 0 null
 1394661954917 comment O teste estava errado e só depois de fazer o código a gente corrigiu ele. 0 null
+1394662798585 comment É o mesmo caso do anterior 0 null
+1394662858097 comment É, novamente, o mesmo caso do anterior 0 null
