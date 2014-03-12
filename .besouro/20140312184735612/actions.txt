@@ -171,3 +171,4 @@ EditAction 1394662639256 Calculator.java 1252 4 4 0
 UnitTestCaseAction 1394662643713 CalculatorTest.java OK
 UnitTestSessionAction 1394662643714 CalculatorTest.java OK
 EditAction 1394662659174 Calculator.java 1250 4 4 0
+EditAction 1394662671307 Calculator.java 1381 6 6 0

@@ -43,5 +43,10 @@ abstract class BinaryExpression{
 
 class Sum extends BinaryExpression{
 	public Sum() {	symbol = "+";	}
-	double eval(double op1, double op2) {	return op1 +op2;	}
+	double eval(double op1, double op2) {	return op1 + op2;	}
+}
+
+class Sum extends BinaryExpression{
+	public Sum() {	symbol = "-";	}
+	double eval(double op1, double op2) {	return op1 - op2;	}
 }
