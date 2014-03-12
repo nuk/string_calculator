@@ -71,3 +71,7 @@ EditAction 1394661737795 Calculator.java 256 1 1 0
 UnitTestCaseAction 1394661743291 CalculatorTest.java OK
 UnitTestSessionAction 1394661743292 CalculatorTest.java OK
 EditAction 1394661815698 Calculator.java 265 1 1 0
+UnitTestCaseAction 1394661822993 CalculatorTest.java OK
+UnitTestSessionAction 1394661822993 CalculatorTest.java OK
+RefactoringAction 1394661869532 CalculatorTest.java ADD void itSums()/2 METHOD
+EditAction 1394661872719 CalculatorTest.java 499 3 6 6
