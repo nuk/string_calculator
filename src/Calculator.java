@@ -16,7 +16,6 @@ public class Calculator {
 		}
 		return Double.parseDouble(expression);
 	}
-
 }
 
 abstract class BinaryExpression{
