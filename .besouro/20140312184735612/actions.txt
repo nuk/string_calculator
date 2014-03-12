@@ -199,3 +199,6 @@ UnitTestSessionAction 1394662858097 CalculatorTest.java OK
 EditAction 1394662881123 Calculator.java 1171 10 10 0
 EditAction 1394662888640 Calculator.java 1199 10 10 0
 EditAction 1394662890548 Calculator.java 1198 10 10 0
+RefactoringAction 1394662901912 CalculatorTest.java ADD void itDivides()/2 METHOD
+RefactoringAction 1394662906443 CalculatorTest.java RENAME itDivides()/2=>void itWhate() METHOD
+EditAction 1394662907212 CalculatorTest.java 853 6 11 11

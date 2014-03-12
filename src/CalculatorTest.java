@@ -30,4 +30,8 @@ public class CalculatorTest {
 		assertEquals(5.0, Calculator.eval("10/2"),0);
 	}
 	
+	@Test public void itWhatever(){
+		assertEquals(2.0, Calculator.eval("4/2"),0);
+	}
+	
 }
