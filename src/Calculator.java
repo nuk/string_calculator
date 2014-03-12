@@ -8,10 +8,14 @@ public class Calculator {
 	}};
 	
 	public static double eval(String expression) {
+		BinaryExpression binary = null;
 		for(BinaryExpression ex : binaries){
 			if(expression.contains(ex.symbol)){
-				return evaluateBinaryExpression(expression, ex);
+				binary = ex;
 			}
+		}
+		if (binary != null){
+			return evaluateBinaryExpression(expression, ex);
 		}
 		return Double.parseDouble(expression);
 	}
