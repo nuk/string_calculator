@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Calculator {
-
+	@SuppressWarnings("serial")
 	static List<BinaryExpression> binaries = new ArrayList<BinaryExpression>(){{
 		add(new Sum());add(new Sub());add(new Multiply());add(new Divide());
 	}};
