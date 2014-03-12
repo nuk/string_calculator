@@ -2,8 +2,8 @@ public class Calculator {
 
 	public static double eval(String expression) {
 		if(expression.contains("+")){
-			expression.split("+")
-			return 2;
+			String[] parts = expression.split("\+");
+			return Double.parseDouble(parts[0])+Double.parseDouble(parts[1]);
 		} else {
 			return Double.parseDouble(expression);
 		}

@@ -58,3 +58,8 @@ EditAction 1394661633582 CalculatorTest.java 371 2 4 4
 UnitTestCaseAction 1394661641495 CalculatorTest.java FAIL
 UnitTestSessionAction 1394661641495 CalculatorTest.java FAIL
 EditAction 1394661653287 Calculator.java 208 1 0 0
+CompilationAction 1394661653447 Calculator.java
+CompilationAction 1394661683990 Calculator.java
+UnitTestCaseAction 1394661685820 CalculatorTest.java FAIL
+UnitTestSessionAction 1394661685820 CalculatorTest.java FAIL
+EditAction 1394661693571 Calculator.java 283 1 0 0
