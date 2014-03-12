@@ -10,11 +10,16 @@ public class Calculator {
 	public static double eval(String expression) {
 		for(BinaryExpression ex : binaries){
 			if(expression.contains(ex.symbol)){
-				String[] operands = expression.split("\\"+ex.symbol);
-				return ex.eval(eval(operands[0]),eval(operands[1]));
+				return evaluateBinaryOperand(expression, ex);
 			}
 		}
 		return Double.parseDouble(expression);
+	}
+
+	private static double evaluateBinaryOperand(String expression,
+			BinaryExpression ex) {
+		String[] operands = expression.split("\\"+ex.symbol);
+		return ex.eval(eval(operands[0]),eval(operands[1]));
 	}
 }
 
