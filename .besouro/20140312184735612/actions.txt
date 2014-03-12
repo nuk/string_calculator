@@ -3,3 +3,9 @@ RefactoringAction 1394660869272 CalculatorTest.java ADD import org.junit.Test IM
 RefactoringAction 1394660900479 CalculatorTest.java ADD void returnStri FIELD
 RefactoringAction 1394660905900 CalculatorTest.java RENAME returnStri=>void returnStringsWithOnlyTheNUmber() METHOD
 EditAction 1394660935683 CalculatorTest.java 157 1 1 1
+CompilationAction 1394660936207 CalculatorTest.java
+RefactoringAction 1394660949021 Calculator.java ADD Calculator.java CLASS
+CompilationAction 1394660949346 CalculatorTest.java
+FileOpenedAction 1394660950264 Calculator.java 30 0 0 0
+RefactoringAction 1394660967584 Calculator.java ADD static Object eval(String) METHOD
+EditAction 1394660973387 Calculator.java 93 1 1 0
