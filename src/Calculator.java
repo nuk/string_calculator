@@ -12,7 +12,7 @@ public class Calculator {
 		for(BinaryExpression ex : binaries){
 			if(expression.contains(ex.symbol)){
 				String[] operands = expression.split("\\+");
-				return ex.eval(operands[0]),eval(operands[1]);
+				return ex.eval(eval(operands[0]),eval(operands[1]));
 			}
 		}
 		
@@ -39,10 +39,10 @@ public class Calculator {
 abstract class BinaryExpression{
 	String symbol;
 	
-	abstract float eval(float op1, float op2);
+	abstract double eval(double op1, double op2);
 }
 
 class Sum extends BinaryExpression{
 	public Sum() {	symbol = "+";	}
-	float eval(float op1, float op2) {	return op1 +op2;	}
+	double eval(double op1, double op2) {	return op1 +op2;	}
 }

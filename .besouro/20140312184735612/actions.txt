@@ -158,3 +158,12 @@ RefactoringAction 1394662548139 Calculator.java MOVE <anonymous /1>=>class Calcu
 CompilationAction 1394662560344 Calculator.java
 EditAction 1394662566180 Calculator.java 1141 4 4 0
 EditAction 1394662587867 Calculator.java 1236 4 2 0
+CompilationAction 1394662588041 Calculator.java
+CompilationAction 1394662588041 Calculator.java
+CompilationAction 1394662617187 Calculator.java
+CompilationAction 1394662617363 Calculator.java
+RefactoringAction 1394662626328 Calculator.java RENAME eval(float, float)=>float eval(double, float) METHOD
+RefactoringAction 1394662628354 Calculator.java RENAME eval(double, float)=>float eval(double, double) METHOD
+RefactoringAction 1394662630378 Calculator.java RENAME eval(float, float)=>float eval(double, float) METHOD
+RefactoringAction 1394662631910 Calculator.java RENAME eval(double, float)=>double eval(double, double) METHOD
+EditAction 1394662632566 Calculator.java 1248 4 4 0
