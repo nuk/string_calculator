@@ -3,11 +3,18 @@ import java.util.List;
 
 public class Calculator {
 
-	List<BinaryExpression> binaries = new ArrayList<BinaryExpression>(){{
+	static List<BinaryExpression> binaries = new ArrayList<BinaryExpression>(){{
 		add(new Sum());
 	}};
 	
 	public static double eval(String expression) {
+		
+		for(BinaryExpression ex : binaries){
+			if(expression.contains(ex.symbol)){
+				
+			}
+		}
+		
 		if(expression.contains("+")){
 			String[] operands = expression.split("\\+");
 			return eval(operands[0])+eval(operands[1]);

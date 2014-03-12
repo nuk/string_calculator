@@ -154,3 +154,6 @@ RefactoringAction 1394662499153 Calculator.java ADD static double eval(String) M
 EditAction 1394662505600 Calculator.java 1020 4 3 0
 CompilationAction 1394662505816 Calculator.java
 EditAction 1394662512404 Calculator.java 1036 4 3 0
+RefactoringAction 1394662548139 Calculator.java MOVE <anonymous /1>=>class Calculator null
+CompilationAction 1394662560344 Calculator.java
+EditAction 1394662566180 Calculator.java 1141 4 4 0
