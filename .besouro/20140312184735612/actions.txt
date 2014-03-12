@@ -32,3 +32,6 @@ EditAction 1394661340213 Calculator.java 123 1 1 0
 UnitTestCaseAction 1394661342872 CalculatorTest.java OK
 UnitTestSessionAction 1394661342872 CalculatorTest.java OK
 EditAction 1394661417461 CalculatorTest.java 242 1 2 2
+UnitTestCaseAction 1394661422021 CalculatorTest.java FAIL
+UnitTestSessionAction 1394661422022 CalculatorTest.java FAIL
+EditAction 1394661427293 CalculatorTest.java 243 1 2 2
